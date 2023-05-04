@@ -9,7 +9,7 @@ echo $CpuNum
 
 
 cpucheck=`GetSysCPU`
-vps="香港【38】"
+vps=""
 
 #设置警告阈值
 
