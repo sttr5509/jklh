@@ -58,7 +58,7 @@ sudo apt install grepcidr
 
 境外使用：
 ```shell
-wget https://github.com/ShiroSekai/DDoS-Deflate-Zh/archive/refs/heads/master.zip -O ddos.zip && unzip ddos.zip && cd DDoS-Deflate-Zh-master && ./install.sh
+wget https://github.com/sttr5509/jklh/archive/refs/heads/master.zip -O ddos.zip && unzip ddos.zip && cd DDoS-Deflate-Zh-master && ./install.sh
 ```
 
 境内使用：
